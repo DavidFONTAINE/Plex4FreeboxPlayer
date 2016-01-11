@@ -1,2 +1,2 @@
 # Plex4FreeboxPlayer
-Application Freebox Player Client PLEX
+Application Freebox Player Client PLEX / Qml
